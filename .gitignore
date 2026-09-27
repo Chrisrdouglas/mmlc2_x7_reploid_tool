@@ -1,0 +1,4 @@
+# Game save files (personal data, change as you play)
+*.dat
+
+__pycache__/
